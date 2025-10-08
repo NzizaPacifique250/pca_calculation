@@ -54,8 +54,8 @@ which contains various factors that may influence student performance.
 ### 1. Clone the repository containing this notebook:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/NzizaPacifique250/pca_calculation.git
+cd pca_calculcation
 ```
 
 ### 2. Install the required libraries:
